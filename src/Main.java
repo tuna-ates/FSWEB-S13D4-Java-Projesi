@@ -15,12 +15,13 @@ public class Main {
 
         System.out.println("distance()= " + point.distance());*/
 
-        Player player=new Player("tuna",50,Weapon.AK47);
+
+      /*  Player player=new Player("tuna",50,Weapon.AK47);
         System.out.println("healthRemaining:"+player.healthRemaining());
         player.loseHealth(70);
         System.out.println("healthRemaining:"+player.healthRemaining());
         player.restoreHealth(45);
         System.out.println("healthRemaining:"+player.healthRemaining());
-        System.out.println(player);
+        System.out.println(player);*/
     }
 }
